@@ -1,5 +1,3 @@
-# ocr
-
 This is a backend built by NodeJs with following functions:
 
 1.  When a file is uploaded to the Cloud Storage bucket "captured-image", the exported functions "processImage" is 
